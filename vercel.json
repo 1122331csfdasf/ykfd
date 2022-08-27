@@ -1,0 +1,7 @@
+{
+    "name": "youku",
+    "version": 2,
+    "routes": [
+      {"src": "/(.*)","dest": "https://valipl10.cp31.ott.cibntv.net/$1"}
+    ]
+  }
